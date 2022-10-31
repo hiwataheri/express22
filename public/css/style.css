@@ -1,0 +1,17 @@
+body {
+    background-color: #f5e3e3;
+    font-family: 'Open Sans', sans-serif;
+    flex: auto;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    align-self: start;
+    align-items: center;
+
+
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #333;
+    margin: 20px;
+    padding: 40px;
+}
